@@ -1,3 +1,12 @@
+"""
+ascii.py
+
+A python program that convert images to ASCII art.
+
+Author: Mahesh Venkitachalam
+"""
+
+
 import sys, random ,argparse
 import numpy as np
 import math
